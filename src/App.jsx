@@ -17,9 +17,6 @@ import Video from './Pages/Video/Video'
    )
  }
 
- // Commite changes  in git NewYouTube 
-
-
  export default App
  
 
